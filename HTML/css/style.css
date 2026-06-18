@@ -17,20 +17,21 @@ padding-left: 0;}
 
 p{max-width: 70vw;}
 
-img{max-width: 70vw;
+img{max-width: 80vw;
     width: 100%;
 height: auto;
 border-radius: 10px;}
 
 main{max-width: 1000px;
     margin: 0 auto;
+    text-align: center;
     padding: 40px 24px;
 }
 
 @media screen and (min-width: 744px) {
     body{font-size: 18px;} 
     p{max-width: 70vw;}
-    img{max-width: 70vw;}
+    img{max-width: 80vw;}
     h1{font-size: 40px;}
     h2, h3{font-size: 32px;}
 }
