@@ -20,7 +20,7 @@ img{max-width: 85vw;
 height: auto;
 border-radius: 10px;}
 
-main{max-width: 80vw;
+main, header{max-width: 80vw;
     margin: 0 auto;
     text-align: center;
     padding: 40px 24px;
