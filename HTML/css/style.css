@@ -29,7 +29,8 @@ main, header{max-width: 80vw;
 @media screen and (min-width: 744px) {
     body{font-size: 18px;} 
     p{max-width: 80vw;
-     margin: 0 auto;}
+     margin: 0 auto;
+      padding: 40px 24px;}
     img{max-width: 85vw;}
     h1{font-size: 40px;}
     h2, h3{font-size: 32px;}
