@@ -36,11 +36,19 @@ section {
     padding-top: 60px;
 }
 
+a {
+    color: #1e7a5f;
+}
+
+a:hover {
+    color: #145443;
+}
+
 @media screen and (min-width: 744px) {
     body{font-size: 18px;} 
     p{max-width: 80vw;
      margin: 0 auto;
-      padding: 40px 24px;}
+      padding: 20px 24px;}
     img{max-width: 85vw;}
     h1{font-size: 40px;}
     h2, h3{font-size: 32px;}
