@@ -20,10 +20,17 @@ img{max-width: 85vw;
 height: auto;
 border-radius: 10px;}
 
-main, header{max-width: 80vw;
+main{max-width: 80vw;
     margin: 0 auto;
     text-align: center;
     padding: 40px 24px;
+}
+
+header{
+    max-width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+    padding: 26px 24px;
 }
 
 img:hover{
@@ -33,14 +40,14 @@ img:hover{
 
 section {
     border-top: 1px solid #ccc;
-    padding-top: 60px;
+    padding-top: 48px;
 }
 
-a {
+a{
     color: #1e7a5f;
 }
 
-a:hover {
+a:hover{
     color: #145443;
 }
 
