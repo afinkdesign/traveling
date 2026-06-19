@@ -30,7 +30,8 @@ h3{font-size: 28px;}
 
 ul{list-style-position: inside;
 text-align: center;
-padding-left: 0;}
+padding-left: 0;
+  padding-bottom: 40px}
 
 img{max-width: 85vw;
     width: 100%;
@@ -54,6 +55,7 @@ section {
 
 a{
     color: #1e7a5f;
+    padding-bottom: 40px;
 }
 
 a:hover{
