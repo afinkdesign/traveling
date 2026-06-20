@@ -17,6 +17,7 @@ margin-bottom: 30px;
 header h1,
 header p{max-width:80vw;
 margin: 0 auto;
+padding-bottom: 30px;
 }
 
 main{max-width: 80vw;
