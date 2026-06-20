@@ -14,7 +14,9 @@ background-size: cover;
 margin-bottom: 30px;
 }
 
-header{max-width:80vw;
+header h1,
+header p{max-width:80vw;
+margin: 0 auto;
 }
 
 main{max-width: 80vw;
