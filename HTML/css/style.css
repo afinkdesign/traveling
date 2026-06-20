@@ -14,7 +14,7 @@ background-size: cover;
 margin-bottom: 30px;
 }
 
-main{max-width: 80vw;
+main, header{max-width: 80vw;
     margin: 0 auto;
     text-align: center;
     padding: 40px 24px;
